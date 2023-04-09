@@ -1,0 +1,4 @@
+key height = 0.4369cm
+key area = 1.7cm x 1.7cm
+
+total height = 1.4402cm
